@@ -1,0 +1,276 @@
+{
+  "head": {
+    "mst": "EAP302",
+    "prev": "2017.05",
+    "curr": "2017.06",
+    "next": "2017.07",
+    "sday": "",
+    "flatfile_yn": "NN"
+  },
+  "cal": [
+    {
+      "day": "1",
+      "wday": "5",
+      "dcol": "",
+      "dcls": "",
+      "class": ""
+    },
+    {
+      "day": "2",
+      "wday": "6",
+      "dcol": "",
+      "dcls": "",
+      "class": ""
+    },
+    {
+      "day": "3",
+      "wday": "7",
+      "dcol": "",
+      "dcls": "sat",
+      "class": ""
+    },
+    {
+      "day": "4",
+      "wday": "1",
+      "dcol": "",
+      "dcls": "sun",
+      "class": ""
+    },
+    {
+      "day": "5",
+      "wday": "2",
+      "dcol": "",
+      "dcls": "",
+      "class": ""
+    },
+    {
+      "day": "6",
+      "wday": "3",
+      "dcol": "",
+      "dcls": "",
+      "class": ""
+    },
+    {
+      "day": "7",
+      "wday": "4",
+      "dcol": "",
+      "dcls": "",
+      "class": ""
+    },
+    {
+      "day": "8",
+      "wday": "5",
+      "dcol": "",
+      "dcls": "",
+      "class": ""
+    },
+    {
+      "day": "9",
+      "wday": "6",
+      "dcol": "1",
+      "dcls": "",
+      "class": ""
+    },
+    {
+      "day": "10",
+      "wday": "7",
+      "dcol": "",
+      "dcls": "sat",
+      "class": ""
+    },
+    {
+      "day": "11",
+      "wday": "1",
+      "dcol": "",
+      "dcls": "sun",
+      "class": ""
+    },
+    {
+      "day": "12",
+      "wday": "2",
+      "dcol": "",
+      "dcls": "",
+      "class": ""
+    },
+    {
+      "day": "13",
+      "wday": "3",
+      "dcol": "",
+      "dcls": "",
+      "class": ""
+    },
+    {
+      "day": "14",
+      "wday": "4",
+      "dcol": "",
+      "dcls": "",
+      "class": ""
+    },
+    {
+      "day": "15",
+      "wday": "5",
+      "dcol": "",
+      "dcls": "",
+      "class": ""
+    },
+    {
+      "day": "16",
+      "wday": "6",
+      "dcol": "1",
+      "dcls": "",
+      "class": ""
+    },
+    {
+      "day": "17",
+      "wday": "7",
+      "dcol": "",
+      "dcls": "sat",
+      "class": ""
+    },
+    {
+      "day": "18",
+      "wday": "1",
+      "dcol": "",
+      "dcls": "sun",
+      "class": ""
+    },
+    {
+      "day": "19",
+      "wday": "2",
+      "dcol": "",
+      "dcls": "",
+      "class": ""
+    },
+    {
+      "day": "20",
+      "wday": "3",
+      "dcol": "",
+      "dcls": "",
+      "class": ""
+    },
+    {
+      "day": "21",
+      "wday": "4",
+      "dcol": "",
+      "dcls": "",
+      "class": ""
+    },
+    {
+      "day": "22",
+      "wday": "5",
+      "dcol": "",
+      "dcls": "",
+      "class": ""
+    },
+    {
+      "day": "23",
+      "wday": "6",
+      "dcol": "1",
+      "dcls": "",
+      "class": ""
+    },
+    {
+      "day": "24",
+      "wday": "7",
+      "dcol": "",
+      "dcls": "sat",
+      "class": ""
+    },
+    {
+      "day": "25",
+      "wday": "1",
+      "dcol": "",
+      "dcls": "sun",
+      "class": ""
+    },
+    {
+      "day": "26",
+      "wday": "2",
+      "dcol": "",
+      "dcls": "",
+      "class": ""
+    },
+    {
+      "day": "27",
+      "wday": "3",
+      "dcol": "",
+      "dcls": "",
+      "class": ""
+    },
+    {
+      "day": "28",
+      "wday": "4",
+      "dcol": "",
+      "dcls": "",
+      "class": ""
+    },
+    {
+      "day": "29",
+      "wday": "5",
+      "dcol": "",
+      "dcls": "",
+      "class": ""
+    },
+    {
+      "day": "30",
+      "wday": "6",
+      "dcol": "1",
+      "dcls": "",
+      "class": ""
+    }
+  ],
+  "cont": [
+    {
+      "pcode": "EAP302170609EKS",
+      "sdate": "06/09 (금) 23:50",
+      "adate": "06/13 (화) 16:55",
+      "acode": "EK",
+      "aline": "에미레이트항공",
+      "tday": "5",
+      "grade": "13",
+      "gname": "하나팩캐주얼",
+      "pname": "[쇼핑10][테마in유럽:쇼핑]두바이 5일, 두바이몰 vs 에미레이트몰",
+      "amt": "1490000",
+      "lminute": "1"
+    },
+    {
+      "pcode": "EAP302170616EKS",
+      "sdate": "06/16 (금) 23:50",
+      "adate": "06/20 (화) 16:55",
+      "acode": "EK",
+      "aline": "에미레이트항공",
+      "tday": "5",
+      "grade": "13",
+      "gname": "하나팩캐주얼",
+      "pname": "[쇼핑10][테마in유럽:쇼핑]두바이 5일, 두바이몰 vs 에미레이트몰",
+      "amt": "1490000",
+      "lminute": "1"
+    },
+    {
+      "pcode": "EAP302170623EKS",
+      "sdate": "06/23 (금) 23:55",
+      "adate": "06/27 (화) 16:55",
+      "acode": "EK",
+      "aline": "에미레이트항공",
+      "tday": "5",
+      "grade": "13",
+      "gname": "하나팩캐주얼",
+      "pname": "[초특가필살기][쇼핑10][테마in유럽:쇼핑][좌석확보]두바이 5일, 두바이몰 vs 에미레이트몰",
+      "amt": "999000",
+      "lminute": "1"
+    },
+    {
+      "pcode": "EAP302170630EKS",
+      "sdate": "06/30 (금) 23:50",
+      "adate": "07/04 (화) 16:55",
+      "acode": "EK",
+      "aline": "에미레이트항공",
+      "tday": "5",
+      "grade": "13",
+      "gname": "하나팩캐주얼",
+      "pname": "[쇼핑10][테마in유럽:쇼핑]두바이 5일, 두바이몰 vs 에미레이트몰",
+      "amt": "1490000",
+      "lminute": "1"
+    }
+  ]
+}
