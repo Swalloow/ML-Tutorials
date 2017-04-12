@@ -90,6 +90,8 @@ ENV/
 
 # Dump data
 *.csv
+*.txt
+*.zip
 
 # Spark dummies
 spark-warehouse/
